@@ -174,4 +174,8 @@ Me chamo Fábio Luciano Paukoski Pereira, tenho 22 anos e sou natural de São Pa
   />
 
 </p>
-![Snake animation](https://github.com/fabiopaukoski/fabiopaukoski/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiopaukoski/fabiopaukoski/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiopaukoski/fabiopaukoski/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiopaukoski/fabiopaukoski/output/github-contribution-grid-snake.svg">
+</picture>
