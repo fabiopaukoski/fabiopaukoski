@@ -26,7 +26,7 @@ Me chamo Fábio Luciano Paukoski Pereira, tenho 22 anos e sou natural de São Pa
             src="https://custom-icon-badges.demolab.com/github/stars/fabiopaukoski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/fabiopereira?tab=followers">
+    <a href="https://github.com/fabiopaukoski?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
