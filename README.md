@@ -5,8 +5,8 @@
 Me chamo Fábio Luciano Paukoski Pereira, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC de Praia Grande, com o curso técnico em administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-PG. Sou apaixonado por tecnologia, games e séries de sci-fi.
 
 <div>
-     <a href="https://github.com/fabiopaukoski?tab=repositories&sort=stargazers" target="_blank"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fabiopaukoski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"></a>
-    <a href="https://github.com/fabiopaukoski?tab=followers" target="_blank"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/fabiopaukoski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"></a>
+     <a href="https://github.com/fabioaukoski?tab=repositories&sort=stargazers" target="_blank"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fabioaukoski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"></a>
+    <a href="https://github.com/fabioaukoski?tab=followers" target="_blank"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/fabioaukoski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/fábio-pereira-161427262" target="_blank"><img title="Conecte-se comigo" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
 </div>
