@@ -133,7 +133,7 @@ Me chamo Fábio Luciano Paukoski Pereira, tenho 22 anos e sou natural de São Pa
 
 ### 📊 Estatísticas
 
-<p>
+<!--<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -149,7 +149,7 @@ Me chamo Fábio Luciano Paukoski Pereira, tenho 22 anos e sou natural de São Pa
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopaukoski&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p>-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiopaukoski/fabiopaukoski/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiopaukoski/fabiopaukoski/output/github-contribution-grid-snake.svg">
